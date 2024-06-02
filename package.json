@@ -66,6 +66,7 @@
     "@radix-ui/react-switch": "1.0.3",
     "@radix-ui/react-tabs": "1.0.4",
     "@shikijs/transformers": "1.6.0",
+    "@shiro/fetch": "link:./packages/fetch",
     "@tanstack/query-async-storage-persister": "5.37.1",
     "@tanstack/react-query": "5.37.1",
     "@tanstack/react-query-devtools": "5.37.1",
@@ -92,6 +93,7 @@
     "js-cookie": "3.0.5",
     "js-yaml": "4.1.0",
     "jsondiffpatch": "^0.6.0",
+    "katex": "^0.16.10",
     "kbar": "0.1.0-beta.45",
     "markdown-escape": "2.0.0",
     "markdown-to-jsx": "npm:@innei/markdown-to-jsx@7.2.1-beta.6",
@@ -126,8 +128,7 @@
     "unist-util-visit": "5.0.0",
     "use-context-selector": "2.0.0",
     "vaul": "0.9.1",
-    "xss": "1.0.15",
-    "@shiro/fetch": "link:./packages/fetch"
+    "xss": "1.0.15"
   },
   "devDependencies": {
     "@biomejs/biome": "1.7.3",
